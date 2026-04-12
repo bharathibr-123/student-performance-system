@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Administrator"
+    },
+    {
+      "username": "faculty1",
+      "password": "faculty123",
+      "role": "faculty",
+      "name": "Dr. Preethi"
+    },
+    {
+      "username": "faculty2",
+      "password": "faculty456",
+      "role": "faculty",
+      "name": "Dr. Ramesh"
+    },
+    {
+      "username": "student1",
+      "password": "student123",
+      "role": "student",
+      "name": "Rahul S."
+    },
+    {
+      "username": "student2",
+      "password": "student456",
+      "role": "student",
+      "name": "Priya K."
+    }
+  ]
+}
